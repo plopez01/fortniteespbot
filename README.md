@@ -12,4 +12,5 @@ Este bot tiene:
 Y algunas más, descúbrelas en el código.
 
 **Nota: Este fue el primer bot que hice en discord asi que puede contener fallos y hay código repetido ineccesario.**
+Este proyecto está protegido bajo la licencia GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0.en.html)
 
