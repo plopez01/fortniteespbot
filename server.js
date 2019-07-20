@@ -24,7 +24,7 @@ const ms = require('ms');
 var lol = 1;
 var Image = Canvas.Image;
 const UNB = require("unb-api")
-const Client = new UNB.Client('eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMzI5NjM0OTUxODg2NTM2NzE2IiwiaWF0IjoxNTM1ODE1MzYyfQ.ssGWXN7PsBDZ1UYRS2M5q5ZtF-a0oMYDLmoryQiUMFg');
+const Client = new UNB.Client('token');
 var wait = new Set();
 var seconds = 3;
 // <DEFINIMOS LIBRERIAS Y VARIABLES>
@@ -278,7 +278,7 @@ client.on("message", (message) => { //Cuando se envia un mensaje
 									strictSSL: false,
 									headers: {
 										'UserAgent': 'nodejs request',
-										'TRN-Api-Key': '53cd42e0-4914-4091-9629-2c68b86a3a8d'
+										'TRN-Api-Key': ''
 									}
 					
 								}
@@ -345,7 +345,7 @@ client.on("message", (message) => { //Cuando se envia un mensaje
 									strictSSL: false,
 									headers: {
 										'UserAgent': 'nodejs request',
-										'TRN-Api-Key': '53cd42e0-4914-4091-9629-2c68b86a3a8d'
+										'TRN-Api-Key': 'apikey'
 									}
 					
 								}
@@ -562,7 +562,7 @@ client.on("message", (message) => { //Cuando se envia un mensaje
 					strictSSL: false,
 					headers: {
 						'UserAgent': 'nodejs request',
-						'TRN-Api-Key': '53cd42e0-4914-4091-9629-2c68b86a3a8d'
+						'TRN-Api-Key': 'apikey'
 					}
 	
 				}
@@ -613,7 +613,7 @@ client.on("message", (message) => { //Cuando se envia un mensaje
 						strictSSL: false,
 						headers: {
 							'UserAgent': 'nodejs request',
-							'TRN-Api-Key': '53cd42e0-4914-4091-9629-2c68b86a3a8d'
+							'TRN-Api-Key': ''
 						}
 		
 					}
@@ -690,7 +690,7 @@ client.on("message", (message) => { //Cuando se envia un mensaje
 					strictSSL: false,
 					headers: {
 						'UserAgent': 'nodejs request',
-						'TRN-Api-Key': '53cd42e0-4914-4091-9629-2c68b86a3a8d'
+						'TRN-Api-Key': ''
 					}
 
 				}
@@ -767,7 +767,7 @@ client.on("message", (message) => { //Cuando se envia un mensaje
 					strictSSL: false,
 					headers: {
 						'UserAgent': 'nodejs request',
-						'TRN-Api-Key': '53cd42e0-4914-4091-9629-2c68b86a3a8d'
+						'TRN-Api-Key': ''
 					}
 
 				}
@@ -844,7 +844,7 @@ client.on("message", (message) => { //Cuando se envia un mensaje
 						strictSSL: false,
 						headers: {
 							'UserAgent': 'nodejs request',
-							'TRN-Api-Key': '53cd42e0-4914-4091-9629-2c68b86a3a8d'
+							'TRN-Api-Key': ''
 						}
 		
 					}
@@ -921,7 +921,7 @@ client.on("message", (message) => { //Cuando se envia un mensaje
 					strictSSL: false,
 					headers: {
 						'UserAgent': 'nodejs request',
-						'TRN-Api-Key': '53cd42e0-4914-4091-9629-2c68b86a3a8d'
+						'TRN-Api-Key': ''
 					}
 
 				}
@@ -996,7 +996,7 @@ client.on("message", (message) => { //Cuando se envia un mensaje
 				strictSSL: false,
 				headers: {
 					'UserAgent': 'nodejs request',
-					'TRN-Api-Key': '53cd42e0-4914-4091-9629-2c68b86a3a8d'
+					'TRN-Api-Key': ''
 				}
 
 			}
@@ -8354,7 +8354,7 @@ client.on("message", (message) => { //Cuando se envia un mensaje
 							strictSSL: false,
 							headers: {
 								'UserAgent': 'nodejs request',
-								'TRN-Api-Key': '53cd42e0-4914-4091-9629-2c68b86a3a8d'
+								'TRN-Api-Key': ''
 							}
 			
 						}
@@ -9189,7 +9189,7 @@ client.on("message", (message) => { //Cuando se envia un mensaje
 					strictSSL: false,
 					headers: {
 						'UserAgent': 'nodejs request',
-						'TRN-Api-Key': '53cd42e0-4914-4091-9629-2c68b86a3a8d'
+						'TRN-Api-Key': ''
 					}
 	
 				}
@@ -9890,7 +9890,7 @@ client.on("message", (message) => { //Cuando se envia un mensaje
 						strictSSL: false,
 						headers: {
 							'UserAgent': 'nodejs request',
-							'TRN-Api-Key': '53cd42e0-4914-4091-9629-2c68b86a3a8d'
+							'TRN-Api-Key': ''
 						}
 		
 					}
@@ -10587,7 +10587,7 @@ client.on("message", (message) => { //Cuando se envia un mensaje
 						strictSSL: false,
 						headers: {
 							'UserAgent': 'nodejs request',
-							'TRN-Api-Key': '53cd42e0-4914-4091-9629-2c68b86a3a8d'
+							'TRN-Api-Key': ''
 						}
 		
 					}
