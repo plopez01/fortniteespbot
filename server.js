@@ -20,7 +20,6 @@ var Canvas = require('canvas')
   , ctx = canvas.getContext('2d')
   , fs = require('fs');
 const ms = require('ms');
-//Lol wtf PUTA MIERDA DE PAGINA
 var lol = 1;
 var Image = Canvas.Image;
 const UNB = require("unb-api")
