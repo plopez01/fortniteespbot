@@ -9,6 +9,7 @@ Este bot tiene:
 - Algunas funciones para unbelievableboat (la mayoria están desactivadas por fallos).
 - Añadir wins y kd al nombre automaticamente.
 - Registro de usuarios al bot.
+- Sistema para buscar partidas con comando
 Y algunas más, descúbrelas en el código.
 
 **Nota: Este fue el primer bot que hice en discord asi que puede contener fallos y hay código repetido ineccesario.**
