@@ -1,4 +1,4 @@
-**ATTENTION: I probably only still have this uploaded as an example on the worst thing you can do when trying to code without knowing how loops work. People, please don't make the same mistakes as I did and learn how they work to prevent disasters like this to happen.**
+**ATTENTION: I probably only still have this uploaded as an example on the worst thing you can do when trying to code without knowing how loops work. Fellow reader, please don't make the same mistakes as I did and learn how they work to prevent disasters like this to happen.**
 
 # fortniteespbot
 Bot de discord creado utilizando node.js y librerías de npm. 
